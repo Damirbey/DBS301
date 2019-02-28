@@ -9,7 +9,7 @@
 set autocommit off;
 -- QUESTION 1:
 -- Create an INSERT statement to add the first row of data to the SALESREP table from the
--- above sample data. Insert NULL value for the userid column. Include the columns’ name
+-- above sample data. Insert NULL value for the userid column. Include the columnsâ€™ name
 -- in the INSERT clause. Do not enter all rows yet.
 
 -- ANSWER FOR QUESTION 1:
@@ -138,7 +138,7 @@ set autocommit off;
 
 -- QUESTION 10:
 
--- Change the value of the office_number column to ‘unknown’ for sales representatives
+-- Change the value of the office_number column to â€˜unknownâ€™ for sales representatives
 -- with null office numbers.
 
 -- ANSWER FOR QUESTION 10:
