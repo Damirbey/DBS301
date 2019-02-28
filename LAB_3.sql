@@ -59,7 +59,7 @@
 
 -- QUESTION 4
 
--- Display employee’s last name and employee number along with their manager’s last
+-- Display employeeâ€™s last name and employee number along with their managerâ€™s last
 -- name and manager number. Label the columns Employee, Emp#, Manager, and Mgr#
 -- respectively.
 
@@ -172,7 +172,7 @@
 
 -- QUESTION 11
 
--- Display the employee last name and employee number along with their manager’s last
+-- Display the employee last name and employee number along with their managerâ€™s last
 -- name and manager number. Label the columns Employee,
 -- a. Emp#, Manager, and Mgr#, respectively.
 -- b. Include also employees who do NOT have a manager and also employees who
