@@ -105,7 +105,7 @@
 
 -- QUESTION 6:
 -- 	The HR department needs a report with the following specifications: 
---   	=> Last name, department ID, and department’s name of all the employees from the EMPLOYEES table, regardless of whether or not they belong to a department  
+--   	=> Last name, department ID, and departmentâ€™s name of all the employees from the EMPLOYEES table, regardless of whether or not they belong to a department  
 --   	=> Department ID and department name of all the departments from the DEPARTMENTS table, regardless of whether or not they have employees working in them 
 
 -- ANSWER FOR QUESTION 6:
